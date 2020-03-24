@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/style.scss"],"names":[],"mappings":"AAEA,KACE","file":"style.ec70ed53.css","sourceRoot":"..","sourcesContent":["$magic_color: lavender;\n\nbody {\n  background: $magic_color;\n}\n"]}
